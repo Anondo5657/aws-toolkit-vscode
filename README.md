@@ -37,4 +37,4 @@ We want your feedback!
 
 ## License
 
-The **AWS Toolkit for Visual Studio Code** is distributed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+The **AWS Toolkit for Visual Studio Code** is distributed under the [Apache License, Version 3.0](https://www.apache.org/licenses/LICENSE-1.1).
